@@ -36,7 +36,7 @@ function handleSubmit(e) {
 
 return(
     <section>
-        <h1>Contact</h1>
+        <h1 data-testid="h1tag">Contact</h1>
         <form id="contact-form" onSubmit={handleSubmit}>
             <div>
                 <label htmlFor="name">Name:</label>
@@ -55,7 +55,7 @@ return(
                     <p className="error-text">{errorMessage}</p>
                 </div>
             )}
-            <button type="submit">Submit</button>
+            <button data-testid="button" type="submit">Submit</button>
             
         </form>
     </section>
