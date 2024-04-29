@@ -1,20 +1,22 @@
 # Photo Port
 
 ## Introduction
+<img width="944" alt="Photo portfolio" src="https://github.com/Samismail2010/photo-port/assets/88996409/11b05d5d-41b5-45bc-bdf7-73b31d9fcd10">
 
 Photo Port is a React-based web application designed to showcase photography portfolios. It allows photographers to present their work professionally online, with an emphasis on simplicity and ease of navigation.
 
 ## Table of Contents
 
+- [Introduction](#introduction)
+- [Technologies](#technologies)
 - [Installation](#installation)
 - [Features](#features)
-- [Usage](#usage)
-- [Scripts](#scripts)
 - [Dependencies](#dependencies)
+- [Testing](#testing)
 - [Contributing](#contributing)
-- [License](#license)
 
-## Technologies Used
+
+## Technologies
 - React
 - JavaScript
 - CSS
@@ -35,6 +37,7 @@ npm install
 
 # Start the development server
 npm start
+
 ```
 ## Features
 **Responsive Design:** Ensures that the application is accessible on both desktop and mobile devices.
